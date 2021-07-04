@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Vitor!
 
-<!--
-**vitorguima/vitorguima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a good tech enthusiast and a big curious, I always asked my self how things, that i have always been in touch with, did really work. After almost 6 years working as a financial analyst, in january 2021, i finally decided to change my carrer's path and started my web development studies at [Trybe](https://www.betrybe.com/).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Techonologies and Tools I'm familiarized with:
+
+- GIT
+- HTML
+- CSS
+- Javascript
+- React JS
+- Redux
+- Jest
+- ESlint
+
+If you want to get in touch with me, here is my [Linkedin](https://www.linkedin.com/in/vitorguima/) profile.
