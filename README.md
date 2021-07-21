@@ -9,6 +9,7 @@ These are the techonologies and Tools I'm familiarized with:
 - CSS
 - Javascript
 - React JS
+- SQL
 - Redux
 - Jest
 - ESlint
