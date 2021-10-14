@@ -4,4 +4,4 @@ As a good tech enthusiast and a big curious, I always asked my self how things, 
 
 If you want to get in touch with me, here is my [Linkedin](https://www.linkedin.com/in/vitorguima/) profile.
 
-ps: have you ever heard about [Newbie devolution](https://www.youtube.com/channel/UC7BTotJjNIsViPjxgzLeIWg)? Yeah, it's me. :p 
+ps: have you ever heard about [Newbie devolution](https://www.youtube.com/channel/UC7BTotJjNIsViPjxgzLeIWg)? Yeah, it's me! :p 
