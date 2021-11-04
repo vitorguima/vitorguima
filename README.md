@@ -1,6 +1,6 @@
 ### Hello, I'm Vitor!
 
-I'm current student at [Trybe](https://www.betrybe.com/).
+I'm a current student at [Trybe](https://www.betrybe.com/).
 
 My main stack:
 Javascript | React/Redux/Hooks API | NodeJS/Express | MongoDB | SQL | Git/Github | RTL/JEST | Mocha/Chai/Sinon | HTML | CSS
