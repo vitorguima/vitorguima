@@ -1,7 +1,13 @@
 ### Hello, I'm Vitor!
 
-As a good tech enthusiast and a big curious, I always asked my self how things, that I have constantly been in touch with, did really work. With this mindset, after almost 5 years working as a financial analyst for tech companies, in january 2021, I finally decided to change my carrer's path and started my web development studies at [Trybe](https://www.betrybe.com/).
+I'm current student at [Trybe](https://www.betrybe.com/).
 
-If you want to get in touch with me, here is my [Linkedin](https://www.linkedin.com/in/vitorguima/) profile.
+My main stack:
+Javascript | React/Redux/Hooks API | NodeJS/Express | MongoDB | SQL | Git/Github | RTL/JEST | Mocha/Chai/Sinon | HTML | CSS
 
-I'm also trying to improve my hard skills by creating some technical content at my Youtube channel [Newbie devolution](https://www.youtube.com/channel/UC7BTotJjNIsViPjxgzLeIWg).
+My secondary stack: 
+Ruby | Rails | PostgreSQL
+
+If you want to get in touch with me, here is my [Linkedin](https://www.linkedin.com/in/vitorguima/) profile. My email is: vitorguima@gmail.com.
+
+I'm also trying to improve my hard and soft skills by creating some technical content at my Youtube channel [Newbie devolution](https://www.youtube.com/channel/UC7BTotJjNIsViPjxgzLeIWg).
