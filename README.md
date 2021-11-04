@@ -1,6 +1,6 @@
 ### Hello, I'm Vitor!
 
-I'm a current student at [Trybe](https://www.betrybe.com/).
+Current studying at [Trybe](https://www.betrybe.com/).
 
 **My main stack:**
 
